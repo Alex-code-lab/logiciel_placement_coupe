@@ -3,6 +3,7 @@
 Application desktop Python/PySide6 pour placer des rectangles, triangles,
 polygones, cercles et ovales dans un rouleau de tissu de largeur fixe.
 Toutes les dimensions sont saisies et sauvegardees en centimetres.
+ajouter des formes ?
 
 ## Installation
 
